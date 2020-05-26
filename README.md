@@ -35,8 +35,11 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-variable-assignment' title='Variable Assignment'>Variable Assignment</a> on Learn.co and start learning to code for free.</p>
 
-variable.rb = "greeting"
+variable = "greeting"
 greeting = "Hello World"
+
+
+
 
 
 
